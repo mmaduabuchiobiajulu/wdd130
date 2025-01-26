@@ -1,11 +1,11 @@
 /* Define CSS Variables */
 :root {
-    --primary-color: #00b4d8; 
+    --primary-color: #03045e;  
     --secondary-color:  #0077b6; 
-    --text-color: #03045e;  
+    --text-color: #00b4d8; 
     --font-family: 'Merriweather', serif;
     --font-family-alt: 'Roboto', sans-serif;
-    --background-white: #FFFFFF; 
+    --background-white: #90e0ef; 
 }
 
 /* Global Styles */
