@@ -1,8 +1,8 @@
 /* Define CSS variables for consistency */
 :root {
-    --primary-color: #03045e;
+    --primary-color: #136810;
     --secondary-color: hsl(200, 20%, 94%);
-    --accent-color: #802d38;
+    --accent-color: #0c0d0e;
     --text-color:  #0c0b0b;
     --background-color: hsl(258, 50%, 96%);
     --font-primary: 'Merriweather', serif;
