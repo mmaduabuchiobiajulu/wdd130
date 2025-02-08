@@ -9,13 +9,6 @@
     --font-secondary: 'Roboto', sans-serif;
 }
 
-
-
-
-
-/* Define CSS variables for consistency */
-
-
 /* General styles */
 body {
     font-family: var(--font-secondary);
