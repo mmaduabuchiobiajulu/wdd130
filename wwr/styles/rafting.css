@@ -1,10 +1,10 @@
 /* Define CSS variables for consistency */
 :root {
-    --primary-color: #2a6da2;
-    --secondary-color: #ffffff;
-    --accent-color: #ffcc00;
-    --text-color: #333;
-    --background-color: #f4f4f4;
+    --primary-color: #136810;
+    --secondary-color: hsl(200, 20%, 94%);
+    --accent-color: #dbbe17;
+    --text-color:  hsl(0, 75%, 2%);
+    --background-color: hsl(258, 50%, 96%);
     --font-primary: 'Merriweather', serif;
     --font-secondary: 'Roboto', sans-serif;
 }
